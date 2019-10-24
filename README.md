@@ -8,7 +8,16 @@ This toolbox can be used to determine the accuracy of automatically derived inve
 
 # Installation
 
+**Step 1: Connect to downloaded folder.**
+
+![TEST](Step1.PNG)
+
+![TEST](Step2.PNG)
 
 
 
+**Step 2: Open AccuracyAssesment script and enter inputs.**
+![TEST](Step3.PNG)
+
+![TEST](Step4.png)
 
