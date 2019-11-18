@@ -12,6 +12,7 @@ arcpy.env.overwriteOutput = True
 #Inputs (shapefiles of the automatically and manually derived inventories)
 automatic = arcpy.GetParameter(0)
 manual = arcpy.GetParameter(1)
+arcpy.env.workspace = arcpy.GetParameter(2)
 
 #Outputs (shapefiles created in process to determine accuracy)
 intersect = "Intersection.shp"
