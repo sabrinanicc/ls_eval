@@ -16,13 +16,13 @@ This toolbox can be used to determine the accuracy of automatically derived inve
 
 
 
-**Step 2: Right cliek AccuracyAssesment script > properties > Source and set source to the location in which you saved the python script.
+**Step 2: Right click AccuracyAssesment script > properties > Source and set source to the location in which you saved the python script.**
 
 
 ![TEST](Step3.PNG)
 
 
-**Step 2: Open AccuracyAssesment script and input data, run. 
+**Step 2: Open AccuracyAssesment script and input data, run. **
 
 
 ![TEST](Step4.png)
