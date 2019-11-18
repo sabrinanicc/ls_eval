@@ -22,7 +22,7 @@ This toolbox can be used to determine the accuracy of automatically derived inve
 ![TEST](Step3.PNG)
 
 
-**Step 2: Open AccuracyAssesment script and input data, run. **
+**Step 2: Open AccuracyAssesment script and input data, run.**
 
 
 ![TEST](Step4.png)
